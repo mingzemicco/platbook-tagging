@@ -1,0 +1,43 @@
+{
+	"address": "7 Rue du Faubourg Montmartrei Metro Grands Boulevards, 75009 Paris France",
+	"detailedNote": {
+		"cuisine": "3.5/5",
+		"environment": "4/5",
+		"pricing": "4/5",
+		"service": "3.5/5"
+	},
+	"keywords": [
+		"les prix imbattables",
+		"un prix abordable",
+		"bon rapport qualité - prix",
+		"trop bruyante",
+		"petit prix , petite portion",
+		"ambiance brasserie parisienne",
+		"plats traditionnels",
+		"Les plats sont copieux , simple et bon",
+		"des plats français traditionnels vraiment",
+		"les plats simples traditionnels",
+		"les sauces sont médiocres",
+		"goûteux , bien exécutés",
+		"plats typiques et français",
+		"des plats insipide",
+		"Des plats réconfortants",
+		"service impeccable",
+		"service sympathique",
+		"le service est expéditif",
+		"Les tables sont minuscules , le service ultra rapide",
+		"le service est déplorable",
+		"médiocre , viande dure , frite congelé",
+		"cuisine familiale et traditionnelle",
+		"personnel pas aimable , beaucoup de queue",
+		"merci Yovan , serveur numéro 24",
+		"la mauvaise qualité rechauffé micro onde . qualité culinaire équivalente",
+		"ambiance bistrot",
+		"la file d’ attente est impressionnante"
+	],
+	"lat": 48.871941,
+	"lng": 2.343018,
+	"time": ["11:30AM", "12PM"],
+	"priceRange": [20, 40],
+	"type": "French, European"
+}
